@@ -14,6 +14,7 @@ HTML = """
 </head>
 <body>
     <h1>TaskFlow - Gerenciador de Tarefas</h1>
+    <p>Deploy automático funcionando!</p>
 
     <form method="POST">
         <input type="text" name="task" placeholder="Nova tarefa" required>
